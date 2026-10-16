@@ -53,7 +53,7 @@ The analysis explored:
 
 ## Key Findings
 
-- **Total revenue:** Approximately 54.45 million.
+- **Total revenue:** Approximately $54.45 million.
 - **Total transactions:** 20,876.
 - **Total customers:** 5,506.
 - **Total quantity sold:** 62,701.
